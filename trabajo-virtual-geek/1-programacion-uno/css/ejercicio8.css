@@ -1,0 +1,11 @@
+.boton{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+	border: solid;
+	color: blue;
+}
+.opacidad{
+	opacity: 0.2;
+}
